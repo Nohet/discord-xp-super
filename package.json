@@ -1,17 +1,34 @@
 {
   "name": "discord-xp-super",
-  "version": "1.0.0",
-  "description": "asdasdsa",
+  "version": "1.0.1",
+  "description": "A lightweight and easy-to-use XP framework for Discord bots, using SQLite and written in TypeScript.",
   "keywords": [
-    "keywords",
-    "here"
+    "discord",
+    "economy",
+    "discord.js",
+    "bot",
+    "bots",
+    "leveling",
+    "levels",
+    "discord-levels",
+    "discord-xp",
+    "xp",
+    "discord-xp-super",
+    "sqlite",
+    "discord-economy",
+    "discord-eco",
+    "framework"
   ],
   "repository": {
     "type": "git",
-    "url": "asdasd"
+    "url": "https://github.com/Nohet/discord-xp-super"
   },
+  "bugs": {
+    "url": "https://github.com/Nohet/discord-xp-super/issues"
+  },
+  "homepage": "https://github.com/Nohet/discord-xp-super#readme",
   "license": "MIT",
-  "author": "Nohet",
+  "author": "nohet",
   "type": "commonjs",
   "main": "dist/index.js",
   "scripts": {

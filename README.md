@@ -27,7 +27,7 @@ DiscordXp.setDatabase("xp.db")
 
 ## Links
 <ul>
-<li><a href="">Github</a></li>
+<li><a href="https://github.com/Nohet/discord-xp-super">Github</a></li>
 </ul>
 
 ## Methods
